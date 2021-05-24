@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SP2203
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Transformers and its application
+- 🌱 I’m currently learning Transformers and its applications
 - 💞️ I’m looking to collaborate on NLP and Computer Vision based projects
 - 📫 How to reach me email -: patilswaraj22@gmail.com  Linkedin -: https://www.linkedin.com/in/swaraj-patil-744074100/
 - ✍ Check out my Medium articles here : https://medium.com/@patilswaraj22
